@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>VMdiArea</class>
+ <widget class="QMdiArea" name="VMdiArea">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1440</width>
+    <height>900</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>VMdiArea</string>
+  </property>
+  <property name="background">
+   <brush brushstyle="Dense6Pattern">
+    <color alpha="255">
+     <red>0</red>
+     <green>0</green>
+     <blue>0</blue>
+    </color>
+   </brush>
+  </property>
+  <property name="activationOrder">
+   <enum>QMdiArea::CreationOrder</enum>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
