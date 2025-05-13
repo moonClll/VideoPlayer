@@ -1,6 +1,4 @@
-
 // You may need to build the project (run Qt uic code generator) to get "ui_VWidget.h" resolved
-
 #include <glib.h>
 #include <gst/gst.h>
 #include <gst/video/videooverlay.h>
